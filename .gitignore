@@ -9,7 +9,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 #Removed folder
-./src/removed
+src/removed
 
 # Windows Installer files
 *.cab
