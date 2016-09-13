@@ -1,0 +1,22 @@
+{
+"forward"   :   "fwd",
+"forwards"  :   "fwd",
+"fwd"       :   "fwd",
+"fd"        :   "fwd",
+"back"	    :   "bwd",
+"backward"  :   "bwd",
+"backwards" :   "bwd",
+"bwd"       :   "bwd",
+"rightturn" :   "rt",
+"right"     :   "rt",
+"rt"        :   "rt",
+"leftturn"  :   "lt",
+"left"      :   "lt",
+"lt"        :   "lt",
+"penup"     :   "pu",
+"pu"        :   "pu",
+"pendown"   :   "pd",
+"pd"        :   "pd",
+"repeat"    :   "rpt",
+"rpt"       :   "rpt"
+}

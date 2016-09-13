@@ -1,0 +1,9 @@
+{
+    "fwd": [1, "int"],
+    "bwd": [1, "int"],
+    "rt": [1, "int"],
+    "lt": [1, "int"],
+    "pu": [0],
+    "pd": [0],
+    "rpt": [2, "int", "commands"]
+}

@@ -1,0 +1,32 @@
+The syntax for all of these commands (with the exeption of pen up and pen down) is:
+commandWord value
+where commandWord is one of the words listed below and value is the angle (degrees) or distance (pixels) of the command
+
+These are the commands that you can use to go forwards
+forward
+forwards
+fwd
+
+These are the commands that you can use to go backwards
+back
+backward
+backwards
+bwd
+
+These are the commands that you can use to turn right
+rightturn
+right
+rt
+
+These are the commands that you can use to turn left
+leftturn
+left
+lt
+
+These are the commands to put the pen up
+penup
+pu
+
+These are the commands to put the pen down
+pendown
+pd
