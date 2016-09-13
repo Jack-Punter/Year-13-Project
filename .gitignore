@@ -11,11 +11,17 @@ $RECYCLE.BIN/
 #Removed folder
 src/removed
 
+#__pycache__ folder
+src/__pycache__
+
 # Windows Installer files
 *.cab
 *.msi
 *.msm
 *.msp
+
+#python cache Files
+*.pyc
 
 # Windows shortcuts
 *.lnk
